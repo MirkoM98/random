@@ -27,4 +27,5 @@
   height: 75px;
   color: white;
   display: flex;
+  justify-content: center;
 }
